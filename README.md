@@ -4,5 +4,5 @@
 
 [task 1](Apache_day1_task1.sh)
 
-![Apache2_installed.png]
+![screenshot](Apache2_installed.png)
 
